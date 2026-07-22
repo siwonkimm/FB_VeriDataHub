@@ -1,5 +1,5 @@
 Similarity-Service API 명세서
-Base URL: [http://localhost:8080](https://antikimchunsu.duckdns.org/)
+Base URL: (https://antikimchunsu.duckdns.org/)
 Data Format: JSON
 
 1. 👤 회원 API (User)
