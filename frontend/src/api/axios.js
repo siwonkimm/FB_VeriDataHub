@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Spring Boot Backend Base URL
-const BASE_URL = 'http://54.206.127.84:8080';
+const BASE_URL = 'https://silly-sfogliatella-c6a555.netlify.app';
 
 // Create Central Axios Instance
 export const apiClient = axios.create({
