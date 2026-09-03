@@ -1,5 +1,7 @@
 # 📡 Similarity-Service API Specification
 
+> 작성 일자: 26.07.15.
+
 * **Base URL**: `[https://antikimchunsu.duckdns.org](https://antikimchunsu.duckdns.org)`
 * **Data Format**: `JSON`
 
